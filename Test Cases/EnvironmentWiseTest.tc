@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnvironmentWiseTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>249a695c-3eba-46c5-97e9-8a00205eca9d</testCaseGuid>
+   <variable>
+      <defaultValue>'beta1-18nov@yopmail.com'</defaultValue>
+      <description></description>
+      <id>4b423cc4-00fa-4cfe-830a-b79d64533a3c</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sit@1234'</defaultValue>
+      <description></description>
+      <id>1eef4939-f6cb-4780-b98b-6d170e4ed903</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

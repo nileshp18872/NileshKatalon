@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2aaac85-958f-48a3-a52c-a8ecb181909b</testCaseGuid>
+   <variable>
+      <defaultValue>'beta1-18nov@yopmail.com'</defaultValue>
+      <description></description>
+      <id>e3399306-b6b4-47d6-be0e-6ffde9182332</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sit@1234'</defaultValue>
+      <description></description>
+      <id>41cb9b67-558e-4505-a497-484f7f88186b</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

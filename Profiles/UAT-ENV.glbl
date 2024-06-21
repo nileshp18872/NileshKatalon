@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UAT-ENV</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://162.243.162.181/beta-booster/public/login'</initValue>
+      <name>envURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'beta1-18nov@yopmail.com'</initValue>
+      <name>envUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sit@1234'</initValue>
+      <name>envPass</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

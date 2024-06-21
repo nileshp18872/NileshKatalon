@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_There was a problem retrieving the co_d71a61</name>
+   <tag></tag>
+   <elementGuidId>cf7ef6d4-44ad-4b81-9cf1-febe1644ef43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#attach-sidesheet-view-cart-button > span.a-button-inner > input.a-button-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='submit'])[24]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>attach-sidesheet-view-cart-button-announce</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;attach-desktop-sideSheet&quot;)/div[@id=&quot;attach-accessory-pane&quot;]/div[@class=&quot;a-scroller attach-accessory-section a-scroller-vertical&quot;]/div[@class=&quot;a-section a-spacing-none a-padding-base attach-primary-atc-confirm-box&quot;]/div[@id=&quot;attach-added-to-cart-message&quot;]/div[@class=&quot;a-fixed-left-grid-inner a-grid-vertical-align a-grid-top&quot;]/div[@class=&quot;a-fixed-left-grid-col a-col-right&quot;]/div[@class=&quot;a-row a-spacing-top-small&quot;]/form[@id=&quot;attach-view-cart-button-form&quot;]/span[@id=&quot;attach-sidesheet-view-cart-button&quot;]/span[@class=&quot;a-button-inner&quot;]/input[@class=&quot;a-button-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='submit'])[24]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='attach-sidesheet-view-cart-button']/span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/form/span/span/input</value>
+   </webElementXpaths>
+</WebElementEntity>
